@@ -6,9 +6,10 @@ How to Run
    
 
 2.Install dependencies:
+```bash
 pip install -r requirements.txt
 run : FACE_MASK_DECATION_USING_CNN.py
-
+```
 or if used google colab and jupter nootbook
 1.Run the Jupyter notebook:
  FACE_MASK_DECATION_USING_CNN.ipynb
